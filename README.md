@@ -8,10 +8,16 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+### Step - 1: 
+Import the required libaries and read the dataframe.
+### Step - 2: 
+Assign hours to X and scores to Y.
+### Step - 3: 
+Implement the training set and the test set of the dataframe.
+### Step - 4:
+Plot the required graph for both the training data and the test data.
+### Step - 5: 
+Find the values of MSE,MAE and RMSE.
 
 ## Program:
 ```
