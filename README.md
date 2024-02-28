@@ -42,7 +42,7 @@ regressor=LinearRegression()
 regressor.fit(X_train,Y_train)
 Y_pred=regressor.predict(X_test)
 print("Predicted Y value:",Y_pred)
-print("Tested y value:",Y_test)
+print("Tested Y value:",Y_test)
 
 plt.scatter(X_train,Y_train,color="darkcyan")
 plt.plot(X_train,regressor.predict(X_train),color="red")
